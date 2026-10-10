@@ -69,8 +69,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Schemmer&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
+## 📅 O ano, até aqui / The year, so far
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wagner-Schemmer&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="contribution-activity.svg" alt="Contribution Activity — 271 contributions in the last year" />
+  <br><em>Um jato percorre o ano e atira nos dias mais ativos. / A jet flies the length of the year and fires at the busiest days.</em>
 </div>
 
 ---
